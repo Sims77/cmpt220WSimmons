@@ -1,0 +1,18 @@
+9 pts
+
+William,
+
+- Congratulations on passing the judge Kattis!
+
+However, 
+
+
+- Line #16 is incorrectly indented.
+
+- Please read the style guidelines to make sure you understand them. Do not
+  hesitate to ask any questions.
+
+
+Peace,
+
+- Dr. Rivas
