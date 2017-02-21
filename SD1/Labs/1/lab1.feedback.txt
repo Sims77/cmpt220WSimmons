@@ -1,0 +1,32 @@
+7 pts
+
+William,
+
+About your programs...
+
+Functionality
+
+- All programs function correctly as required.
+
+- Could not test functionality because programs cannot be compiled. Root cause
+  seems to be the fact that there are errors in the code   -1pt
+
+Please make sure you read the problems well; follow instructions.
+
+
+Style Check
+
+- You used tabs, which is forbidden. -1pt
+
+- There is incorrect indentation. -1pt
+
+
+About your essay:
+
+- Good writing and analysis.
+
+
+
+Peace,
+
+- Dr. Rivas
