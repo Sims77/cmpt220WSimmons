@@ -2,7 +2,7 @@
   * file: Problem_91.java
   * author: Will Simmons
   * course: CMPT 220
-  * assignment: lab 8
+  * assignment: lab 6
   * due date: April 18, 2017
   * version: 1
   *
