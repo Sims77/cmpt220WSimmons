@@ -1,0 +1,7 @@
+39 pts
+
+The project attempts to make a text adventure game.
+The idea has good merit. 
+
+Overall:
+- Decent work below average of an SD1 student. -1pt
